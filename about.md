@@ -6,9 +6,11 @@ permalink: /about/
 
 ![Pic](/assets/images/profile_pic.png)
 
-I am a 26 year old researcher, hacker, geek, opensource enthusiast and beer lover who loves to dream about a future where he has made a dent.
+I am a 26 year old researcher, geek, opensource enthusiast, beer lover and a wannabe artist who loves to dream about a future where he has made a dent.
 
-I did my bachelors in Computer Science and Masters by Research in [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) at [IIIT Hyderabad](https://www.iiit.ac.in/). I spent the last few years at [CERN](https://home.cern/), Geneva first as a Summer Student with the [EF-SFT, CERN](https://ep-dep-sft.web.cern.ch/) and then as a Visiting Scientist at [Theoretical Physics Department, CERN](https://th-dep.web.cern.ch/). I also had a brief stint working with [UNITAR-UNOSAT](https://unitar.org/unosat/) working as a lead developer for [GeoTag-X](geotagx.org). Recently I have been working as a PhD student at [EPFL, Switzerland](https://www.epfl.ch/) working on a whole diversity of problems in Applied Machine Learning from detection of Plant Diseases from images of Plant leaves to teaching musculoskeletal models how to walk using reinforcement learning.
+I did my bachelors in Computer Science and Masters by Research in [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) at [IIIT Hyderabad](https://www.iiit.ac.in/). I spent the last few years at [CERN](https://home.cern/), Geneva first as a Summer Student with the [EF-SFT, CERN](https://ep-dep-sft.web.cern.ch/) and then as a Visiting Scientist at [Theoretical Physics Department, CERN](https://th-dep.web.cern.ch/). I also had a brief stint working with [UNITAR-UNOSAT](https://unitar.org/unosat/) working as a lead developer for [GeoTag-X](geotagx.org).
+
+Recently I have been working as a PhD student at [EPFL, Switzerland](https://www.epfl.ch/) working on a whole diversity of problems in Applied Machine Learning from [detection of Plant Diseases from images of Plant leaves](https://www.theatlantic.com/science/archive/2016/04/future-smartphones-will-tell-you-whats-killing-your-plants/479859/) to [teaching musculoskeletal models how to walk using reinforcement learning](https://www.youtube.com/watch?v=rhNxt0VccsE).
 
 I also co-founded [CrowdAI](http://crowdai.org), a platform for organising machine learning challenges on problems in OpenScience using OpenData. The vision is to enable Scientists from multiple domains to crowdsource machine learning expertise; and in the process also facilitate the grooming of machine learning expertise in a [coopetitive](https://en.wikipedia.org/wiki/Coopetition) environment.
 
