@@ -18,6 +18,16 @@ I excessively love [beer, puzzles, travelling, partying and of course blabbering
 
 I am also a _wannabe_ music composer, and keep fiddling around with my Guitar whenever I find time. I have also been trying to learn [Tabla](https://en.wikipedia.org/wiki/Tabla) and [Bansuri](https://en.wikipedia.org/wiki/Bansuri). The progress on that front has not been very impressive, but I still keep trying :D
 
+
+**Some organisations where I have spent _at least_ 6 months working :**
+* ![EPFL](/assets/images/epfl.png)
+* ![CERN](/assets/images/cern.jpg)
+* ![UNOSAT](/assets/images/unosat.jpg)
+* ![Google Summer of Code](/assets/images/gsoc.png)
+* ![IIIT](/assets/images/iiit.png)
+
+
+
 ### Contact me
 
 Find me on [Github][github] / [Twitter][twitter] / [facebook][facebook] / [Instagram](https://www.instagram.com/spmohanty)  or just say `Hello` at
