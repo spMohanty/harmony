@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: /harmony
+baseurl: ''
 
 # Site live URL
 url: http://127.0.0.1:4000
@@ -13,7 +13,7 @@ url: http://127.0.0.1:4000
 harmony:
   name: Sharada Mohanty
   # Little description about your site
-  description: 
+  description: École polytechnique fédérale de Lausanne
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
