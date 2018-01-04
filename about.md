@@ -22,11 +22,11 @@ I am also a _wannabe_ music composer, and keep fiddling around with my Guitar wh
 
 
 **Some organisations where I have spent _at least_ 6 months working :**
-* ![EPFL](/assets/images/epfl.png)
-* ![CERN](/assets/images/cern.jpg)
-* ![UNOSAT](/assets/images/unosat.jpg)
-* ![Google Summer of Code](/assets/images/gsoc.png)
-* ![IIIT](/assets/images/iiit.png)
+* [![EPFL](/assets/images/epfl.png)](https://epfl.ch)
+* [![CERN](/assets/images/cern.jpg)](http://cern.ch/)
+* [![UNOSAT](/assets/images/unosat.jpg)](https://unitar.org/unosat/)
+* [![Google Summer of Code](/assets/images/gsoc.png)](https://developers.google.com/open-source/gsoc/)
+* [![IIIT](/assets/images/iiit.png)](https://iiit.ac.in)
 
 
 
