@@ -5,7 +5,7 @@ title: Blog archive
 <div class="page-content wc-container">
   <h1>Blog Archive</h1>  
   {% for post in site.posts %}
-  {% if post.isBlog == true %}
+  {% if post.is_blog == true %}
   	{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   	{% if currentyear != year %}
     	{% unless forloop.first %}</ul>{% endunless %}
